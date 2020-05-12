@@ -80,7 +80,7 @@ Questions:
     37. Walk me through Lambda's git flow.
         - We are to create our own version of the Repo by forking, we then add our TL as a collaborator, then we clone the Repo (copying a link to the Repo),
           we then create a branch where we will place the project using git checkout -b 'jason-bokesch', we then submit our PR into the newly created branh, we then
-          add our TL as the reviewer on the PR, the TL will then count it as done and merge it into the master
+          add our TL as the reviewer on the PR the TL will then count it as done and merge it into the master
 
 Stretch Questions:
 1. What is the difference between an inline element and a block element?
